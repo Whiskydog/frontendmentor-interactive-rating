@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub repo](https://whiskydog.github.com/frontendmentor-interactive-rating/)
+- Solution URL: [GitHub repo](https://github.com/whiskydog/frontendmentor-interactive-rating/)
 - Live Site URL: [GitHub pages site](https://whiskydog.github.io/frontendmentor-interactive-rating)
 
 ## Built with
